@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_skyway.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_skyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/progressfragment/flutter_skyway.progressfragment.iml" filepath="$PROJECT_DIR$/.idea/modules/progressfragment/flutter_skyway.progressfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/skyway/flutter_skyway.skyway.iml" filepath="$PROJECT_DIR$/.idea/modules/skyway/flutter_skyway.skyway.iml" />
+    </modules>
+  </component>
+</project>

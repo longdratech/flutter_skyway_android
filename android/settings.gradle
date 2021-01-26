@@ -1,0 +1,4 @@
+include ':skyway'
+rootProject.name = 'flutter_skyway'
+include ':progressfragment'
+
